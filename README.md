@@ -1,21 +1,25 @@
-# Modern Calculator Web App
+# Calculator Web App
 
-A simple and modern calculator web application built using HTML, CSS, and JavaScript.  
-It allows users to perform basic arithmetic operations with a clean and responsive user interface.
+A modern and responsive calculator web application built using HTML, CSS, and JavaScript.
+It allows users to perform basic arithmetic operations through both button clicks and keyboard input, while also maintaining a history of calculations.
 
 ## Features
-- Perform basic arithmetic operations (+, −, ×, ÷)
-- Clear button to reset calculations
-- User-friendly and modern UI design
-- Responsive layout for different screen sizes
-- Interactive button-based input
+
+* Perform basic arithmetic operations (+, −, ×, ÷)
+* Keyboard input support for faster calculations
+* Calculation history to view previous results
+* Clear button to reset the calculator
+* Clean and modern user interface
+* Responsive design for different screen sizes
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 ## Project Structure
+
 calculator-web-app/
 │
 ├── index.html
@@ -23,11 +27,10 @@ calculator-web-app/
 └── script.js
 
 ## How to Use
-1. Open the calculator in a web browser.
-2. Click the number buttons to enter values.
-3. Select an operator (+, −, ×, ÷).
-4. Press "=" to see the result.
+
+1. Enter numbers using the calculator buttons or keyboard.
+2. Choose an operator (+, −, ×, ÷).
+3. Press "=" or Enter to see the result.
+4. View previous calculations in the history section.
 5. Use "C" to clear the display.
 
-## Author
-Ruthvika Bodepudi
